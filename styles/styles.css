@@ -1,0 +1,85 @@
+body{
+	margin: 0;
+	font-family: Helvetica,Arial,sans-serif;
+	color: #4a4a4a;
+}
+
+/***************** HEADER STYLING ***************/
+header{
+	display: flex;
+}
+.logo-div{
+	width: 20%;
+	display: inline-flex;
+	margin: 2%; 
+}
+.long-header{
+	display: inline-block;
+	width: 60%;
+	padding-left: 2%;
+}
+.title-bar{
+	width: 80%;
+	text-align: center;
+	height: 50%;
+	display: block;
+	
+}
+h1{
+	font-size: 2.8rem;
+	font-weight: 300;
+}
+.nav-bar{
+	width: 80%;
+	height: 50%;
+	font-size: 1.6rem;
+	font-weight: 200;
+	text-align: center;
+}
+.nav-bar a{
+	color: #4a4a4a;
+	text-decoration: none;
+}
+.nav-bar a:hover{
+	text-decoration: underline;
+}
+#upload{
+	display: none;
+}
+/******** SLIDER STYLING ************/
+.sliders{
+	width: 70%;
+	margin: 0 auto;
+}
+.sliderBox{
+	height: 5vh;
+}
+.right{
+	text-align: right;
+}
+.label{
+	display: inline-block;
+	width: 20%;
+	font-size: 1.2rem;
+}
+.slider{
+	width: 58%;
+}
+/************* PROGRAMME STYLING *******/
+.programme-image{
+	background-image: url('../images/No-Content.jpg');
+	background-size: cover;
+	height: 30vh;
+}
+.content{
+	width: 80%;
+	margin: 0 auto;
+}
+.programme{
+	width: 12vw;
+	padding: 2%;
+	display: inline-block;
+}
+.programme p{
+	text-align: center;
+}

@@ -1,0 +1,63 @@
+<programmeData>
+	<title>Programme Data</title> 
+	<programme id="1">
+		<programme1>
+		<name>A nightmare on Elm Street</name>
+		<imagePath>../images/Elm Street.jpg</imagePath> 
+		<Calm>None</Calm> 
+		<Happy>None</Happy>
+		<Tired>Wide Awake</Tired>
+		<Scared>Fearless</Scared>
+		</programme1>
+	</programme> 
+	<programme id="2">
+		<programme2>
+		<name>School of Rock</name>
+		<imagePath>../images/School.jpg</imagePath>
+		<Calm>Agitated</Calm> 
+		<Happy>Sad</Happy>
+		<Tired>None</Tired>
+		<Scared>None</Scared>
+		</programme2>
+	</programme> 
+	<programme id="3">
+		<programme3>
+		<name>First Blood</name>
+		<imagePath>../images/First.jpg</imagePath>
+		<Calm>Agitated</Calm> 
+		<Happy>None</Happy>
+		<Tired>Wide Awake</Tired>
+		<Scared>None</Scared>
+		</programme3> 
+	</programme>
+	<programme id="4">
+		<programme4>
+		<name>Titanic</name>
+		<imagePath>../images/Titanic.jpg</imagePath>
+		<Calm>Calm</Calm> 
+		<Happy>Sad</Happy>
+		<Tired>Tired</Tired>
+		<Scared>None</Scared>
+		</programme4> 
+	</programme>
+	<programme id="5">
+		<programme5>
+		<name>Inside Out</name>
+		<imagePath>../images/Inside.jpg</imagePath>
+		<Calm>Calm</Calm> 
+		<Happy>Happy</Happy>
+		<Tired>None</Tired>
+		<Scared>None</Scared>
+		</programme5> 
+	</programme>
+	<programme id="6">
+		<programme6>
+		<name>Mama Mia!</name>
+		<imagePath>../images/mama.jpg</imagePath>
+		<Calm>None</Calm> 
+		<Happy>Happy</Happy>
+		<Tired>Wide Awake</Tired>
+		<Scared>None</Scared>
+		</programme6> 
+	</programme>
+</programmeData>
