@@ -2,7 +2,7 @@
 	<title>Programme Data</title> 
 	<programme id="1">
 		<programme1>
-		<name>A nightmare on Elm Street</name>
+		<name>A Nightmare on Elm Street</name>
 		<imagePath>../images/Elm Street.jpg</imagePath> 
 		<Calm>None</Calm> 
 		<Happy>None</Happy>
@@ -16,7 +16,7 @@
 		<imagePath>../images/School.jpg</imagePath>
 		<Calm>Agitated</Calm> 
 		<Happy>Sad</Happy>
-		<Tired>None</Tired>
+		<Tired>Wide Awake</Tired>
 		<Scared>None</Scared>
 		</programme2>
 	</programme> 
@@ -45,19 +45,139 @@
 		<name>Inside Out</name>
 		<imagePath>../images/Inside.jpg</imagePath>
 		<Calm>Calm</Calm> 
-		<Happy>Happy</Happy>
+		<Happy>Sad</Happy>
 		<Tired>None</Tired>
 		<Scared>None</Scared>
 		</programme5> 
 	</programme>
 	<programme id="6">
 		<programme6>
-		<name>Mama Mia!</name>
+		<name>Mamma Mia!</name>
 		<imagePath>../images/mama.jpg</imagePath>
 		<Calm>None</Calm> 
 		<Happy>Happy</Happy>
 		<Tired>Wide Awake</Tired>
 		<Scared>None</Scared>
 		</programme6> 
+	</programme>
+	<programme id="7">
+		<programme7>
+		<name>Zero Dark Thirty</name>
+		<imagePath>../images/ZeroDark.jpg</imagePath>
+		<Calm>Calm</Calm> 
+		<Happy>None</Happy>
+		<Tired>Wide Awake</Tired>
+		<Scared>None</Scared>
+		</programme7> 
+	</programme>
+	<programme id="8">
+		<programme8>
+		<name>Now You See Me</name>
+		<imagePath>../images/SeeMe.jpg</imagePath>
+		<Calm>None</Calm> 
+		<Happy>None</Happy>
+		<Tired>Wide Awake</Tired>
+		<Scared>Scared</Scared>
+		</programme8> 
+	</programme>
+	<programme id="9">
+		<programme9>
+		<name>Superbad</name>
+		<imagePath>../images/Superbad.jpg</imagePath>
+		<Calm>None</Calm> 
+		<Happy>Happy</Happy>
+		<Tired>None</Tired>
+		<Scared>Scared</Scared>
+		</programme9> 
+	</programme>
+	<programme id="10">
+		<programme10>
+		<name>Moana</name>
+		<imagePath>../images/Moana.jpg</imagePath>
+		<Calm>Calm</Calm> 
+		<Happy>None</Happy>
+		<Tired>Tired</Tired>
+		<Scared>None</Scared>
+		</programme10> 
+	</programme>
+	<programme id="11">
+		<programme11>
+		<name>Split</name>
+		<imagePath>../images/Split.jpg</imagePath>
+		<Calm>None</Calm> 
+		<Happy>None</Happy>
+		<Tired>Wide Awake</Tired>
+		<Scared>Fearless</Scared>
+		</programme11> 
+	</programme>
+	<programme id="12">
+		<programme12>
+		<name>The Dark Knight</name>
+		<imagePath>../images/darkKnight.jpg</imagePath>
+		<Calm>None</Calm> 
+		<Happy>Happy</Happy>
+		<Tired>None</Tired>
+		<Scared>Fearless</Scared>
+		</programme12> 
+	</programme>
+	<programme id="13">
+		<programme13>
+		<name>Love Actually</name>
+		<imagePath>../images/actually.jpg</imagePath>
+		<Calm>Agitated</Calm> 
+		<Happy>Sad</Happy>
+		<Tired>None</Tired>
+		<Scared>None</Scared>
+		</programme13> 
+	</programme>
+	<programme id="14">
+		<programme14>
+		<name>The Hurt Locker</name>
+		<imagePath>../images/hurt.jpg</imagePath>
+		<Calm>None</Calm> 
+		<Happy>None</Happy>
+		<Tired>Wide Awake</Tired>
+		<Scared>Fearless</Scared>
+		</programme14> 
+	</programme>
+	<programme id="15">
+		<programme15>
+		<name>The Greatest Showman</name>
+		<imagePath>../images/greatest.jpg</imagePath>
+		<Calm>None</Calm> 
+		<Happy>Happy</Happy>
+		<Tired>Wide Awake</Tired>
+		<Scared>None</Scared>
+		</programme15> 
+	</programme>
+	<programme id="16">
+		<programme16>
+		<name>Hairspray</name>
+		<imagePath>../images/hairspray.jpg</imagePath>
+		<Calm>Agitated</Calm> 
+		<Happy>Sad</Happy>
+		<Tired>None</Tired>
+		<Scared>None</Scared>
+		</programme16> 
+	</programme>
+	<programme id="17">
+		<programme17>
+		<name>Les Miserables</name>
+		<imagePath>../images/lesMis.jpg</imagePath>
+		<Calm>Calm</Calm> 
+		<Happy>Happy</Happy>
+		<Tired>None</Tired>
+		<Scared>None</Scared>
+		</programme17> 
+	</programme>
+	<programme id="18">
+		<programme18>
+		<name>Guardians of the Galaxy</name>
+		<imagePath>../images/guardians.jpg</imagePath>
+		<Calm>None</Calm> 
+		<Happy>Happy</Happy>
+		<Tired>Wide Awake</Tired>
+		<Scared>None</Scared>
+		</programme18> 
 	</programme>
 </programmeData>
